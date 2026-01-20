@@ -64,6 +64,8 @@ A composite livability index is derived to provide a holistic, comparable view a
 Dashboard Image :
 <img width="1142" height="647" alt="Screenshot 2026-01-19 212807" src="https://github.com/user-attachments/assets/8ec47a81-0dc4-4ae3-bbe6-eac0303a3a43" />
 
+All Images :
+<img width="1281" height="755" alt="image" src="https://github.com/user-attachments/assets/c44e7f5a-f7cd-4330-8566-148d0be96b1d" />
 
 ⭐ If you found this project useful, feel free to star the repo or share feedback!
 
