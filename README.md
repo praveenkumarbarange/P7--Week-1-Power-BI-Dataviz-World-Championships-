@@ -1,51 +1,69 @@
 # P7--Week-1-Power-BI-Dataviz-World-Championships-
-Briarport Livability Dashboard (2015–2024)-  Description
+# 🏙️ Briarport Livability Dashboard (2015–2024)
 
-This dashboard analyzes livability trends in Briarport compared to 11 peer cities from 2015 to 2024, using a multi-dimensional framework that reflects how cities balance growth, affordability, mobility, and sustainability.
+## 📌 Project Overview
 
-What this dashboard shows
+This project presents a **4-page interactive dashboard** analyzing livability trends in **Briarport** compared to **11 peer cities** over a 10-year period (2015–2024).
+The goal is to move beyond descriptive metrics and deliver **actionable insights** for urban planning and policy decision-making.
 
-The analysis evaluates Briarport across five key livability dimensions:
--Housing Affordability
--Transit Access
--Green Space Availability
--Emissions Index
--Overall Livability Composite
+The dashboard is designed with a **storytelling-first approach**, aligning data insights with how **city planners, policy analysts, and community stakeholders** think and act.
 
-By combining long-term trends, peer comparisons, and trade-off analysis, the dashboard highlights where Briarport is improving, where pressure is emerging, and where policy intervention matters most.
+---
 
-How to read the dashboard:
+## 🎯 Objectives
 
-Page 1 – Livability Overview:
-Provides a 2024 snapshot of Briarport’s performance alongside a 10-year livability trend and peer ranking to establish context.
+* Compare Briarport’s performance against peer cities
+* Identify strengths and gaps across key livability dimensions
+* Reveal trade-offs between affordability, mobility, and sustainability
+* Translate metrics into clear **planning priorities**
 
-Page 2 – Living & Moving in Briarport:
-Examines the relationship between housing affordability and transit access, revealing how mobility investment influences cost pressures.
+---
 
-Page 3 – Environment & Sustainability:
-Tracks green space growth and emissions performance, highlighting sustainability trade-offs and untapped environmental potential.
+## 📊 Key Metrics Analyzed
 
-Page 4 – From Metrics to Action:
-Breaks down the livability composite, identifies strengths and gaps, and translates insights into clear planning priorities.
+The analysis focuses on **five core livability dimensions**:
 
-Dashboard :
-[World Champs 26 - Week 1 Starter File.pdf](https://github.com/user-attachments/files/24726966/World.Champs.26.-.Week.1.Starter.File.pdf)
+* **Housing Affordability**
+* **Transit Score**
+* **Green Space (%)**
+* **Emissions Index** (lower is better)
+* **Livability Composite Score**
+
+A composite livability index is derived to provide a holistic, comparable view across cities.
+
+---
+
+## 🧭 Dashboard Structure
+
+### **Page 1 – Livability Overview**
+
+* 2024 KPI snapshot for Briarport
+* 10-year livability trend vs peer average
+* Peer city ranking for context
+
+### **Page 2 – Living & Moving in Briarport**
+
+* Housing affordability trends and peer comparison
+* Relationship between transit access and affordability
+* Identification of mobility-related risks
+
+### **Page 3 – Environment & Sustainability**
+
+* Green space growth over time
+* Emissions performance vs peer cities
+* Trade-off analysis between green space and emissions
+
+### **Page 4 – From Metrics to Action**
+
+* Livability composite score breakdown showing how housing, transit, green space, and emissions contribute to Briarport’s overall performance
+* Strengths vs gaps assessment to clearly distinguish areas of relative advantage and concern
+* Synthesis of insights from previous pages to identify high-impact policy levers
+* Clear, actionable planning priorities focused on long-term livability outcomes
+
+---
+Dashboard Image :
+<img width="1142" height="647" alt="Screenshot 2026-01-19 212807" src="https://github.com/user-attachments/assets/8ec47a81-0dc4-4ae3-bbe6-eac0303a3a43" />
 
 
-Key insights
--Briarport sits in the upper-middle tier of livability among peer cities.
--Transit performance and environmental progress have supported livability gains.
--Rising housing costs and emissions increasingly threaten long-term quality of life.
--Cities with strong transit and higher green space coverage tend to achieve better overall livability outcomes.
+⭐ If you found this project useful, feel free to star the repo or share feedback!
 
-
-Intended audience
-This dashboard is designed for:
--City planners
--Policy analysts
--Community stakeholders
-
-It supports evidence-based decision-making by clearly linking data insights to actionable urban planning priorities.
-
-Final takeaway
-Briarport’s livability gains are real but fragile. Without coordinated investment in transit and sustainability, affordability and quality of life risks will continue to grow relative to peer cities.
