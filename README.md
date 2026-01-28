@@ -35,25 +35,25 @@ A composite livability index is derived to provide a holistic, comparable view a
 
 ## 🧭 Dashboard Structure
 
-### **Page 1 – Livability Overview**
+### **Page 1 - Livability Overview**
 
 * 2024 KPI snapshot for Briarport
 * 10-year livability trend vs peer average
 * Peer city ranking for context
 
-### **Page 2 – Living & Moving in Briarport**
+### **Page 2 - Living & Moving in Briarport**
 
 * Housing affordability trends and peer comparison
 * Relationship between transit access and affordability
 * Identification of mobility-related risks
 
-### **Page 3 – Environment & Sustainability**
+### **Page 3 - Environment & Sustainability**
 
 * Green space growth over time
 * Emissions performance vs peer cities
 * Trade-off analysis between green space and emissions
 
-### **Page 4 – From Metrics to Action**
+### **Page 4 - From Metrics to Action**
 
 * Livability composite score breakdown showing how housing, transit, green space, and emissions contribute to Briarport’s overall performance
 * Strengths vs gaps assessment to clearly distinguish areas of relative advantage and concern
